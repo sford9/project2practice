@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Museo';
+    src: url(../assets/fonts/museo/museo-300-webfont.woff) format("woff");
+}
+
+body {
+    font-family: "Museo", sans-serif;
+}
+
+
